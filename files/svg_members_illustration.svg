@@ -1,0 +1,27 @@
+<svg viewBox="0 0 80 60" width="80" height="60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Person 1 - Gold -->
+  <circle cx="18" cy="18" r="9" fill="#2b2510" stroke="#c8a44a" stroke-width="1.5"/>
+  <circle cx="18" cy="15" r="4" fill="#c8a44a" opacity=".7"/>
+  <path d="M9 28c0-5 4-8 9-8s9 3 9 8" fill="#c8a44a" opacity=".4"/>
+  <!-- Person 2 - Blue -->
+  <circle cx="40" cy="18" r="9" fill="#2b2510" stroke="#4a7ec8" stroke-width="1.5"/>
+  <circle cx="40" cy="15" r="4" fill="#4a7ec8" opacity=".7"/>
+  <path d="M31 28c0-5 4-8 9-8s9 3 9 8" fill="#4a7ec8" opacity=".4"/>
+  <!-- Person 3 - Green -->
+  <circle cx="62" cy="18" r="9" fill="#2b2510" stroke="#4fa86a" stroke-width="1.5"/>
+  <circle cx="62" cy="15" r="4" fill="#4fa86a" opacity=".7"/>
+  <path d="M53 28c0-5 4-8 9-8s9 3 9 8" fill="#4fa86a" opacity=".4"/>
+  <!-- ID Cards -->
+  <rect x="4" y="38" width="28" height="16" rx="3" fill="#1d1b15" stroke="#2b281f" stroke-width="1"/>
+  <rect x="6" y="41" width="8" height="6" rx="1" fill="#c8a44a" opacity=".3"/>
+  <rect x="17" y="42" width="12" height="1.5" rx=".75" fill="#514d3f"/>
+  <rect x="17" y="46" width="8" height="1.5" rx=".75" fill="#3a3626"/>
+  <rect x="26" y="38" width="28" height="16" rx="3" fill="#1d1b15" stroke="#2b281f" stroke-width="1"/>
+  <rect x="28" y="41" width="8" height="6" rx="1" fill="#4a7ec8" opacity=".3"/>
+  <rect x="39" y="42" width="12" height="1.5" rx=".75" fill="#514d3f"/>
+  <rect x="39" y="46" width="8" height="1.5" rx=".75" fill="#3a3626"/>
+  <rect x="48" y="38" width="28" height="16" rx="3" fill="#1d1b15" stroke="#2b281f" stroke-width="1"/>
+  <rect x="50" y="41" width="8" height="6" rx="1" fill="#4fa86a" opacity=".3"/>
+  <rect x="61" y="42" width="12" height="1.5" rx=".75" fill="#514d3f"/>
+  <rect x="61" y="46" width="8" height="1.5" rx=".75" fill="#3a3626"/>
+</svg>

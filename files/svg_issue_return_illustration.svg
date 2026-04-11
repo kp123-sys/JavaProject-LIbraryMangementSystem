@@ -1,0 +1,18 @@
+<svg viewBox="0 0 80 54" width="80" height="54" xmlns="http://www.w3.org/2000/svg">
+  <!-- Book -->
+  <rect x="4" y="10" width="28" height="34" rx="3" fill="#1d1b15" stroke="#c8a44a" stroke-width="1.2"/>
+  <rect x="6" y="12" width="24" height="30" rx="2" fill="#2b2510"/>
+  <line x1="8" y1="20" x2="28" y2="20" stroke="#c8a44a" stroke-width="1" opacity=".5"/>
+  <line x1="8" y1="25" x2="24" y2="25" stroke="#c8a44a" stroke-width="1" opacity=".4"/>
+  <line x1="8" y1="30" x2="26" y2="30" stroke="#c8a44a" stroke-width="1" opacity=".3"/>
+  <!-- Issue arrow (right, blue) -->
+  <path d="M36 20 L44 20" stroke="#4a7ec8" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M41 16 L45 20 L41 24" stroke="#4a7ec8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Person -->
+  <circle cx="60" cy="20" r="8" fill="#2b2510" stroke="#4a7ec8" stroke-width="1.2"/>
+  <circle cx="60" cy="18" r="3.5" fill="#4a7ec8" opacity=".6"/>
+  <path d="M52 30c0-4.5 3.5-7 8-7s8 2.5 8 7" fill="#4a7ec8" opacity=".3"/>
+  <!-- Return arrow (left, green) -->
+  <path d="M44 40 L36 40" stroke="#4fa86a" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M39 36 L35 40 L39 44" stroke="#4fa86a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

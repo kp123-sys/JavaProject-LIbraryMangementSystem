@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+*.jar
+
+# Local Data Storage
+*.dat
+
+# OS generated files
+.DS_Store
+Thumbs.db
